@@ -4,7 +4,7 @@
 
 ### Links
 
-- Live Site URL: [Add live site URL here](https://relaxed-hugle-0cf9ef.netlify.app/)
+- Live Site URL: [Click Here](https://relaxed-hugle-0cf9ef.netlify.app/)
 
 ## My process
 
