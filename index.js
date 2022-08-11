@@ -29,13 +29,10 @@ copyBtn.addEventListener("click", function () {
 });
 
 const array = [
-  "HelloWorld",
-  "WinterIscoming",
-  "WinterFlow",
-  "SummerSpring",
-  "SummerFlow",
-  "Winter",
-];
+  "HelloWorld", 
+  "Welcome",  
+  "ITypeFast",
+  ];
 
 const generateRandomWord = () => {
   let randomWord = array[Math.floor(Math.random() * array.length)];
