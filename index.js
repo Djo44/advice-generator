@@ -32,7 +32,8 @@ const array = [
   "HelloWorld", 
   "ChangeMe",  
   "ITypeFast",
-  "SecretCode"
+  "SecretCode",
+  "DoubleClick"
   ];
 
 const generateRandomWord = () => {
