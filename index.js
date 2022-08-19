@@ -30,8 +30,9 @@ copyBtn.addEventListener("click", function () {
 
 const array = [
   "HelloWorld", 
-  "Welcome",  
+  "ChangeMe",  
   "ITypeFast",
+  "SecretCode"
   ];
 
 const generateRandomWord = () => {
